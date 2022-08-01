@@ -108,7 +108,7 @@ You can use this as an example of what a functioning calculator would look like!
 
 ## Contact
 
-Your Name - [@@cloudNFT\_](https://twitter.com/@cloudNFT_) - cloud.frontier0@gmail.com
+Cloud - [@@cloudNFT\_](https://twitter.com/@cloudNFT_) - cloud.frontier0@gmail.com
 
 Project Link: [https://github.com/0xClouds/flex-box-calculator](https://github.com/0xClouds/flex-box-calculator)
 
