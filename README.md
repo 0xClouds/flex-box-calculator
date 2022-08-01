@@ -38,7 +38,7 @@
     <a href="https://github.com/0xClouds/flex-box-calculator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/0xClouds/flex-box-calculator">View Demo</a>
+    <a href="https://0xclouds.github.io/flex-box-calculator/">View Demo</a>
     ·
     <a href="https://github.com/0xClouds/flex-box-calculator/issues">Report Bug</a>
     ·
